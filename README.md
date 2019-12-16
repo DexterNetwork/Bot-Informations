@@ -15,3 +15,8 @@ Stay frash!!!!
 
 # Bot Prefix:
 => 'dxter/'
+
+
+<a href="https://top.gg/bot/553270869640740894" >
+  <img src="https://top.gg/api/widget/553270869640740894.svg" alt="Dexter" />
+</a>
